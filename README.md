@@ -1,4 +1,4 @@
 ### Eae 👋
 
-Tentando ser o melhor desenvolvedor abaixo do sol. 
-Get the f out of my way
+Trying to be the best software developer under the sun.
+Get the hell out of my way!

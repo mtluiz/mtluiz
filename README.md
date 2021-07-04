@@ -7,7 +7,7 @@ Dov wahlaan fah rel. Knowledge above all.
 # About me
 I'm a {backend, frontend and mobile} developer, Javascript enthusiast and IT student at UFV.
 
-- [My Personal Portfolio](https://fagnerpsantos.dev/) 💻 - Check out some facts about me and my latest works.
+- [My Personal Portfolio](https://matheusluizn.github.io/react-portfolio-matheus/) 💻 - Check out some facts about me and my latest works.
 
 <img src="https://github-readme-stats.vercel.app/api?username=matheusluizn&show_icons=true&theme=midnight-purple">
 

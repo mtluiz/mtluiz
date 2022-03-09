@@ -27,8 +27,8 @@ int main()
 
 # 📉 Analysis
 
-<div display="flex" >
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusluizn&count_private=true&show_icons=true&theme=radical" />
+<div display="flex" align-items="center">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusluizn&count_private=true&show_icons=true&theme=radical" />
 <img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusluizn&theme=radical" />
 </div>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusluizn&theme=monokai" />
